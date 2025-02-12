@@ -1,4 +1,4 @@
-![web scraping with python](https://github.com/rajat4665/web-scraping-with-python/blob/master/WEB%20SCRAPING.jpg)
+![web scraping with python](https://github.com/diksha1526/web-scraping-with-python/blob/master/WEB%20SCRAPING.jpg)
 <br>
 <span style="text-decoration: underline;"><strong>Introduction:</strong></span>
 
@@ -19,7 +19,7 @@
 </ul>
 <h3>Install required dependencies :</h3>
 <ul>
-	<li>clone or download it from <a href="https://github.com/rajat4665/web-scraping-with-python" target="_blank" rel="noopener">here</a></li>
+	<li>clone or download it from <a href="https://github.com/diksha1526/web-scraping-with-python" target="_blank" rel="noopener">here</a></li>
 	<li>install requirements.txt file</li>
 	<li><code>pip install -r requirements.txt</code></li>
 
@@ -34,4 +34,4 @@
 	<li> CLI scraping tool is underdevelopment only beta version  is available now </li>
 </ul>
 ----------------------------------------------------------------------------------------
-<h1>HAPPY CODING</h1>
+
